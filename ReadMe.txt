@@ -30,7 +30,7 @@ We demonstrate the directory tree of our code, including the names of some main 
 3. REFERENCES:
 [1] Ganzhao Yuan, Li Shen, Wei-Shi Zheng. A Block Decomposition Algorithm for Sparse Optimization. ACM International Conference on Knowledge Discovery and Data Mining (SIGKDD), 2020.
 [2] Ganzhao Yuan, Li Shen, Wei-Shi Zheng. A Decomposition Algorithm for the Sparse Generalized Eigenvalue Problem. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019.
-[2] Ganzhao Yuan. Smoothing Proximal Gradient Methods for Nonsmooth Sparsity Constrained Optimization. Technical Report, 2023.
+[3] Ganzhao Yuan. Smoothing Proximal Gradient Methods for Nonsmooth Sparsity Constrained Optimization. Technical Report, 2023.
 
 
 
