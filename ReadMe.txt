@@ -14,8 +14,8 @@ We demonstrate the directory tree of our code, including the names of some main 
    |        |---- PG_l0c.m        : Implementation of Projective Gradient Method for Solving the Sparsity Constrained Problem
    |        |---- OMP.m           : Implementation of OMP
    |        |---- CoSaMP.m        : Implementation of Compressive Sampling Matched Pursuit
-   |        |---- DecAlg_c.m      : Implementation of Block Coordinate Decomposition Algorithm for Solving the Sparsity Constrained Optimization Problem
-   |        |---- DecAlg_r.m      : Implementation of Block Coordinate Decomposition Algorithm for Solving the Sparse Regularized Optimization Problem
+   |        |---- DecAlg_c.m      : Implementation of Decomposition Algorithm for the Sparsity Constrained Optimization Problem
+   |        |---- DecAlg_r.m      : Implementation of Decomposition Algorithm for the Sparse Regularized Optimization Problem
    |
    |
    |
